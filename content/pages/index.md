@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: This Is A Speed Test
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      djnorris's shared hosting vs netlify. Which will reign supreme?
     actions:
       - label: Try Free
         url: /pricing
