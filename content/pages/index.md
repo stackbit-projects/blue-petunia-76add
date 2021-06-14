@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: This Is A Speed Test
-    subtitle: I
+    subtitle: 'I &#9825 Tacos'
     content: |
       djnorris's shared hosting vs netlify. Which will reign supreme?
     actions:
